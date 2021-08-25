@@ -1,4 +1,4 @@
-## Hi there! Eu sou o Maurício Alves 😁
+## Hi there! Eu sou o Maurício Alves
  <div>
   <a href="https://github.com/LordeMaus">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LordeMaus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
