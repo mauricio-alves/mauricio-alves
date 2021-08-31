@@ -1,7 +1,7 @@
 ## Hi there! Eu sou o Maurício Alves
  <div>
   <a href="https://github.com/mauricio-alves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LordeMaus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
