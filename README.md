@@ -1,8 +1,9 @@
-## Hi there! Eu sou o Maurício Alves
- <div>
+<h1 align="center"> Hi there! I'm Maurício Alves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-alves" alt="mauricio-alves" /> </p>
+<div align="center">
   <a href="https://github.com/mauricio-alves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Maus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +19,5 @@
   <a href = "mailto:mauricioalvesnutri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mauricio-oliveira-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LordeMaus/LordeMaus/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/LordeMaus/LordeMaus/blob/output/github-contribution-grid-snake.svg) 
 </div>
