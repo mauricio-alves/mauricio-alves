@@ -1,10 +1,12 @@
 <h1 align="center"> Hi there! I'm Maurício Alves <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-alves" alt="mauricio-alves" /> </p>
+
 <div align="center">
   <a href="https://github.com/mauricio-alves">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Maus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
