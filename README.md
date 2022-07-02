@@ -1,10 +1,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mauricio-alves" alt="mauricio-alves" /></p>
-<p align="center">
- <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="50%" height="50%"/>
-</p> 
 <h1 align="center"> Hello there! I'm Maurício Alves! <img src="https://user-images.githubusercontent.com/57202531/176981094-cabbdcff-e775-4457-8c42-5baf567c6a1c.png" width="80px"></h1>
-
 <h3 align="center">A Clinical Nutritionist that decided to change his career to Web Development</h3>
+<p align="center">
+ <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="40%"/>
+</p> 
 
 <div align="center">
   <a href="https://github.com/mauricio-alves">
