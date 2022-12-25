@@ -8,8 +8,8 @@
   &nbsp;
 <p align="center"><img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="40%" </p>
 
-| ![](https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-alves&hide=Html&theme=tokyonight) |
-| :-: | :-: | :-: |
+| ![](https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight) | 
+| :-: | :-: |
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-alves&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mauricio-alves&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :-: | :-: |
