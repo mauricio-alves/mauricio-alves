@@ -14,7 +14,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-alves&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mauricio-alves&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :-: | :-: |
   
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
   <h3 align="center">I'm currently learning:</h3>  
   <img align="center" alt="html icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
