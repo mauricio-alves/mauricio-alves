@@ -28,6 +28,7 @@
   <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="express icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />  
+  <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
 </div>
     
  [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
