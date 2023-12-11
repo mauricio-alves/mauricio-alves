@@ -1,3 +1,5 @@
+<h1 align="center">Hello there! I'm Maurício! <img src="https://user-images.githubusercontent.com/57202531/176981094-cabbdcff-e775-4457-8c42-5baf567c6a1c.png" alt="pineapple waving icon" width="60px" /></h1>
+
 <div style="width: 100%;">
   <a href="https://github.com/mauricio-alves/mauricio-alves/blob/main/style.svg">
     <img src="style.svg" style="width: 100%;" alt="Click to see the source">
@@ -25,14 +27,13 @@
 </div>
 &nbsp;
 
-| ![](https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight) | 
-| :-: | :-: |
+| ![](https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight) |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-alves&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mauricio-alves&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
-| :-: | :-: |
-  
-    
- [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+| :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 <p align="center">
   <a
