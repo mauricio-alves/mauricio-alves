@@ -1,11 +1,12 @@
 <h1 align="center">Hello there! I'm Maurício! <img src="https://user-images.githubusercontent.com/57202531/176981094-cabbdcff-e775-4457-8c42-5baf567c6a1c.png" alt="pineapple waving icon" width="60px" /></h1>
 
-<div style="width: 100%;">
-  <a href="https://github.com/mauricio-alves/mauricio-alves/blob/main/style.svg">
-    <img src="style.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
-&nbsp;
+<img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="./lofi-girl.gif" width="51%;"/>
+
+<p align="left">I'm a web developer focusing mainly on front-end development. I have used Javascript and libs such as ReactJS, Bootstrap, TailwindCSS, NodeJS, MongoDB, MySQL, Express, and Axios. I am willing to learn new technologies as well and I have been studying SASS, Typescript, Shopify, and Liquid.
+
+I am also a clinical nutritionist, post-graduated in Nutritional Therapy and Clinical Nutrition. From 2014 to 2022, I worked at a hospital providing nutritional assistance to sick individuals, focused on promoting, maintaining, and recovering health, but I wanted more.
+
+I have always been interested in technology and in 2021 I started studying programming on my own. In 2022, I decided to change careers and did two bootcamps, one of Web Development at Ironhack and the other of Full Stack JS Developer at Technology Experts. In 2023, I started my journey in the Internet Systems course at UniCesumar. I'm currently an intern as a web developer at Vasta. Now, I want to make people's lives more pleasant through my code.</p>
 
 <div style="display: inline_block" align="center">
   <h3 align="center">I'm currently learning:</h3>  
