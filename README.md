@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I'm Maurício! <img src="https://user-images.githubusercontent.com/57202531/176981094-cabbdcff-e775-4457-8c42-5baf567c6a1c.png" alt="pineapple waving icon" width="60px" /></h1>
 
-<img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="./lofi-girl.gif" width="51%;"/>
+<img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="50%;"/>
 
 <p align="left">I'm a web developer focusing mainly on front-end development. I have used Javascript and libs such as ReactJS, Bootstrap, TailwindCSS, NodeJS, MongoDB, MySQL, Express, and Axios. I am willing to learn new technologies as well and I have been studying SASS, Typescript, Shopify, and Liquid.
 
