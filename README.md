@@ -5,6 +5,7 @@
     <img src="style.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+&nbsp;
 
 <div style="display: inline_block" align="center">
   <h3 align="center">I'm currently learning:</h3>  
