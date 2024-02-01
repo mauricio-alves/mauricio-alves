@@ -2,11 +2,13 @@
 
 <img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="62%" />
 
-<p align="left">I'm a web developer focusing mainly on front-end development. I have used Javascript and libs such as ReactJS, Bootstrap, TailwindCSS, NodeJS, MongoDB, MySQL, Express, and Axios. I am willing to learn new technologies as well and I have been studying SASS, Typescript, Shopify, and Liquid.
+<p align="left">I'm a web developer focused mainly on the front end. With experience in Javascript, React, Node, and MongoDB. I am always looking for new knowledge and am currently exploring the world of Shopify.
 
-I am also a clinical nutritionist, post-graduated in Nutritional Therapy and Clinical Nutrition. From 2014 to 2022, I worked at a hospital providing nutritional assistance to sick individuals, focused on promoting, maintaining, and recovering health, but I wanted more.
+Throughout my career, I have had contact with agile methodologies such as Scrum and Kanban, which have served to improve my ability to communicate and collaborate within teams, as well as promote a results-oriented mentality. The tools Trello, Ekyte, GitHub, and Figma were fundamental for this purpose. I also made use of user interface frameworks, such as Bootstrap and Tailwind, ensuring visually attractive and responsive designs.
 
-I have always been interested in technology and in 2021 I started studying programming on my own. In 2022, I decided to change careers and did two bootcamps, one of Web Development at Ironhack and the other of Full Stack JS Developer at Technology Experts. In 2023, I started my journey in the Internet Systems course at UniCesumar. I'm currently an intern as a web developer at Vasta. Now, I want to make people's lives more pleasant through my code.</p>
+With a background in Nutrition, I bring a unique combination of skills. I graduated from the Federal University of Bahia, with a specialization in Nutritional Therapy and Clinical Nutrition from Ganep Nutrição Humana in São Paulo. My experience includes providing nutritional assistance to ill individuals of all age groups, with a focus on health promotion, maintenance, and recovery. I also worked on team management, employee training, and process improvement.
+
+I am currently studying for a degree in Internet Systems at Unicesumar, seeking to deepen my technical knowledge and stay up to date in a constantly evolving world of technology.</p>
 
 <div style="display: inline_block" align="center">
   <h3 align="center">I'm currently learning:</h3>  
@@ -14,10 +16,8 @@ I have always been interested in technology and in 2021 I started studying progr
   <img align="center" alt="css icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
   <img align="center" alt="js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="react icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />  
-  <img align="center" alt="angular icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="shopify icon" height="30" width="40" src="https://cutewallpaper.org/24/shopify-logo-png/circle-ecommerce-round-icon-shopify-icon-free-download.png" />
-  <img align="center" alt="liquid icon" height="30" width="40" src="https://parse.programmieren-muenchen.de/parse/files/unilearn/liquid-logo-text-640.png" />
   <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="shopify icon" height="30" width="40" src="https://cutewallpaper.org/24/shopify-logo-png/circle-ecommerce-round-icon-shopify-icon-free-download.png" />
 </div>
 &nbsp;
 
