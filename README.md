@@ -11,15 +11,45 @@ With a background in Nutrition, I bring a unique combination of skills. I gradua
 I am currently studying for a degree in Internet Systems at Unicesumar, seeking to deepen my technical knowledge and stay up to date in a constantly evolving world of technology.</p>
 
 <div style="display: inline_block" align="center">
-  <h3 align="center">I'm currently learning:</h3>  
+  <h3 align="center">Front End</h3>  
   <img align="center" alt="html icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="css icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> 
   <img align="center" alt="js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="react icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />  
-  <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="vuejs icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />  
+  <img align="center" alt="sass icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> 
+  <img align="center" alt="bootstrap icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
+  <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
   <img align="center" alt="shopify icon" height="30" width="40" src="https://cutewallpaper.org/24/shopify-logo-png/circle-ecommerce-round-icon-shopify-icon-free-download.png" />
 </div>
 &nbsp;
+
+<div style="display: inline_block" align="center">
+  <h3 align="center">Back End</h3> 
+  <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="axios icon" height="30" width="40" src="https://avatars.githubusercontent.com/u/32372333?s=48&v=4" />
+  <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="express icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+  <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="sequelize icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
+</div>
+&nbsp;
+
+<div style="display: inline_block" align="center">
+  <h3 align="center">Tools</h3> 
+  <img align="center" alt="vscode icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="github icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img align="center" alt="git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+  <img align="center" alt="ubuntu icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+  <img align="center" alt="trello icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
+  <img align="center" alt="slack icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain.svg" />
+  <img align="center" alt="insomnia icon" height="30" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
+  <img align="center" alt="figma icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
+  <img align="center" alt="ekyte icon" height="30" width="40" src="https://scontent.fvdc5-1.fna.fbcdn.net/v/t39.30808-6/294205764_552774209968876_7738122390511100337_n.png?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=DYV2algSuY0AX_nBa-z&_nc_ht=scontent.fvdc5-1.fna&oh=00_AfDtDT-q0dnh85Swxa8HEDXmj7em_2NjUncwMvLWWAYbHA&oe=65C11F9C" />
+</div>
+&nbsp;
+
+<hr />
 
 <div align="center">
   <h3 align="center">Feel free to contact me:</h3>  
@@ -34,8 +64,6 @@ I am currently studying for a degree in Internet Systems at Unicesumar, seeking 
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-alves&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mauricio-alves&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 <p align="center">
   <a
