@@ -29,6 +29,7 @@ I am currently studying for a degree in Internet Systems at Unicesumar, seeking 
   <img align="center" alt="nodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="axios icon" height="30" width="40" src="https://avatars.githubusercontent.com/u/32372333?s=48&v=4" />
   <img align="center" alt="mongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="mongoose icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" />
   <img align="center" alt="express icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
   <img align="center" alt="mysql icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="sequelize icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
