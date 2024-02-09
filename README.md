@@ -19,7 +19,7 @@ I am currently studying for a degree in Internet Systems at Unicesumar, seeking 
   <img align="center" alt="vuejs icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />  
   <img align="center" alt="sass icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> 
   <img align="center" alt="bootstrap icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
-  <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /> 
+  <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" /> 
   <img align="center" alt="shopify icon" height="30" width="40" src="https://cutewallpaper.org/24/shopify-logo-png/circle-ecommerce-round-icon-shopify-icon-free-download.png" />
 </div>
 &nbsp;
