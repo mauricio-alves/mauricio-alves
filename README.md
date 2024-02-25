@@ -20,7 +20,7 @@ I am currently studying for a degree in Internet Systems at Unicesumar, seeking 
   <img align="center" alt="sass icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> 
   <img align="center" alt="bootstrap icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
   <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" /> 
-  <img align="center" alt="shopify icon" height="30" width="40" src="https://cutewallpaper.org/24/shopify-logo-png/circle-ecommerce-round-icon-shopify-icon-free-download.png" />
+  <img align="center" alt="shopify icon" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/shopify_icon_146101.png" />
 </div>
 &nbsp;
 
@@ -46,7 +46,7 @@ I am currently studying for a degree in Internet Systems at Unicesumar, seeking 
   <img align="center" alt="slack icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain.svg" />
   <img align="center" alt="insomnia icon" height="30" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
   <img align="center" alt="figma icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
-  <img align="center" alt="ekyte icon" height="30" width="40" src="https://scontent.fvdc5-1.fna.fbcdn.net/v/t39.30808-6/294205764_552774209968876_7738122390511100337_n.png?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=DYV2algSuY0AX_nBa-z&_nc_ht=scontent.fvdc5-1.fna&oh=00_AfDtDT-q0dnh85Swxa8HEDXmj7em_2NjUncwMvLWWAYbHA&oe=65C11F9C" />
+  <img align="center" alt="ekyte icon" height="30" width="40" src="https://pbs.twimg.com/profile_images/1357075510812155913/HiEuGp59_400x400.png" />
   <img align="center" alt="discord icon" height="30" width="40" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />
   <img align="center" alt="notion icon" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.png" />
 </div>
