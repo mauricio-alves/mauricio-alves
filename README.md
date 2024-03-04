@@ -2,7 +2,7 @@
 
 <img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="62%" />
 
-<p align="left">I'm a Web Developer focused mainly on the Front End. With experience in Javascript, React, Node, and MongoDB, I am always looking for new knowledge and am currently exploring the world of Shopify.
+<p align="left">I'm a Web Developer focused mainly on the Front End. With experience in Javascript, React, Node, and MongoDB, I am always looking for new knowledge and more recently I explored the world of Shopify.
 
 Throughout my career, I have had contact with agile methodologies such as Scrum and Kanban, which have served to improve my ability to communicate and collaborate within teams, as well as promote a results-oriented mentality. The tools Trello, Ekyte, GitHub, and Figma were fundamental for this purpose. I also made use of user interface frameworks, such as Bootstrap and Tailwind, ensuring visually attractive and responsive designs.
 
