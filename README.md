@@ -20,7 +20,7 @@ I'm currently studying for a degree in Internet Systems at UniCesumar and doing 
   <img align="center" alt="sass icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" /> 
   <img align="center" alt="bootstrap icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" /> 
   <img align="center" alt="tailwindcss icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" /> 
-  <img align="center" alt="shopify icon" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/shopify_icon_146101.png" />
+  <img align="center" alt="shopify icon" height="30" width="40" src="https://img.icons8.com/?size=256&id=uSHYbs6PJfMT&format=png" />
 </div>
 &nbsp;
 
@@ -44,7 +44,7 @@ I'm currently studying for a degree in Internet Systems at UniCesumar and doing 
   <img align="center" alt="ubuntu icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="trello icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />
   <img align="center" alt="slack icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain.svg" />
-  <img align="center" alt="insomnia icon" height="30" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
+  <img align="center" alt="insomnia icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" />
   <img align="center" alt="figma icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
   <img align="center" alt="ekyte icon" height="30" width="40" src="https://pbs.twimg.com/profile_images/1357075510812155913/HiEuGp59_400x400.png" />
   <img align="center" alt="discord icon" height="30" width="40" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />
