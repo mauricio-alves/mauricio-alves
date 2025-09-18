@@ -2,10 +2,10 @@
 
 <img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="62%" />
 
-<p align="left">I'm a Web Developer with a primary focus on Front End, but also with experience in Full Stack development. I have knowledge in JavaScript, TypeScript, Vue, Angular, Shopify and style frameworks, and I'm constantly seeking to expand my knowledge, currently improving my skills in React and Node.</p>
+<p align="left">I'm a Web Developer with a primary focus on Front End, but also with experience in Full Stack development. I have knowledge in JavaScript, TypeScript, Vue, Angular and style frameworks, and I'm constantly seeking to expand my knowledge, currently improving my skills in React and Node.</p>
 <p align="left">Throughout my career, I have been exposed to agile methodologies such as Scrum and Kanban, which have helped me improve my communication and collaboration skills within teams, as well as fostering a results-oriented mindset. The tools Trello, Ekyte, GitHub, and Figma have been essential for this purpose. I have also used user interface frameworks such as Bootstrap and Tailwind, ensuring visually appealing and responsive designs.</p>
 <p align="left">With a background in Nutrition, I bring a unique combination of skills. I graduated from the Federal University of Bahia, with a specialization in Nutritional Therapy and Clinical Nutrition from Ganep Nutrição Humana in São Paulo. My experience includes providing nutritional assistance to sick individuals of all ages, with a focus on promoting, maintaining, and restoring health. I have also worked in team management, employee training and process improvement.</p>
-<p align="left">I am currently studying Internet Systems at UniCesumar, I am doing a residency in Software Development at CEPEDI and an internship in Full Stack Development at Compass UOL, seeking to deepen my technical knowledge and stay up to date in a world of constantly evolving technology.</p>
+<p align="left">I'm currently pursuing a bachelor's degree in Software Engineering at UniCesumar and completing a residency in Software Development at CEPEDI. I continue to deepen my technical knowledge and stay up-to-date in a world of constantly evolving technology.</p>
 
 <div style="display: inline_block" align="center">
   <h3 align="center">Front End</h3>  
