@@ -45,7 +45,7 @@
   <img align="center" alt="slack icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-plain.svg" />
   <img align="center" alt="insomnia icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" />
   <img align="center" alt="figma icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" />
-  <img align="center" alt="ekyte icon" height="30" width="40" src="https://pbs.twimg.com/profile_images/1357075510812155913/HiEuGp59_400x400.png" />
+  <img align="center" alt="ekyte icon" height="30" width="40" src="https://cdn-1.webcatalog.io/catalog/ekyte/ekyte-icon-filled-256.webp?v=1714781123588" />
   <img align="center" alt="discord icon" height="30" width="40" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />
   <img align="center" alt="notion icon" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.png" />
 </div>
@@ -60,8 +60,8 @@
 </div>
 &nbsp;
 
-| ![](https://github-readme-stats.vercel.app/api?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight) |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauricio-alves&layout=compact&langs_count=7&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricio-alves&theme=tokyonight&utcOffset=8)
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-alves&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mauricio-alves&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD) |
 | :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -73,7 +73,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=mauricio-alves&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-repo.vercel.app/?username=mauricio-alves&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
