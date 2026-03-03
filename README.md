@@ -1,11 +1,29 @@
-<h1 align="center">Hello, there! I'm Maurício! <img src="https://user-images.githubusercontent.com/57202531/176981094-cabbdcff-e775-4457-8c42-5baf567c6a1c.png" alt="pineapple waving icon" width="60px" /></h1>
+<h2 align="center">Hello, there! I'm Maurício! <img src="https://user-images.githubusercontent.com/57202531/176981094-cabbdcff-e775-4457-8c42-5baf567c6a1c.png" alt="pineapple waving icon" width="40px" /></h2>
 
-<img align="right" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="62%" />
+<div align="center">
+  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="50%" />
+</div>
 
-<p align="left">I am a Software Engineering student primarily focused on Frontend development with a solid foundation in Full Stack technologies. Over the past few years, I have been building my career transition into tech, consolidating my skills in HTML, CSS, JavaScript, and styling frameworks like Tailwind and Bootstrap. I have also gained hands-on experience with Vue, Angular, and both Relational and Non-Relational databases. Currently, I am deepening my expertise in React, TypeScript, and Node.js, aiming to align my academic background with the latest demands of the web development market.</p>
-<p align="left">Throughout my learning journey, including a Software Residency at CEPEDI, I have worked with agile methodologies such as Scrum and Kanban, delivering solutions that simulate real-world market environments. These experiences were key to developing my collaboration and communication skills within a team, utilizing tools like GitHub for version control and Figma to implement responsive interfaces with Tailwind CSS. I maintain a results-oriented mindset and a commitment to continuous learning, focused on delivering functional code and user-centered interfaces.</p>
-<p align="left">My previous career background is in Nutrition, with a degree from the Federal University of Bahia and a specialization in Nutritional Therapy from Ganep Educação. Working in clinical assistance and team management provided me with a strong foundation in problem-solving, process organization, and addressing human needs. This professional maturity is a key differentiator that I now bring to technology, merging the discipline of the healthcare field with the analytical rigor of software engineering.</p>
-<p align="left">Currently, I am focusing my efforts on my Bachelor’s degree in Software Engineering at UniCesumar, seeking to deepen my technical knowledge and stay updated in an ever-evolving technological landscape.</p>
+<p align="justify">I am a <b>Software Engineering student</b> with a solid background in <b>Frontend development</b> and a growing expertise in <b>Full Stack technologies</b>. While my primary experience lies in building responsive solutions with <b>React, TypeScript, and Node.js</b>, my roles at <b>Compass UOL</b> and <b>CEPEDI</b> have shaped a product-oriented mindset. I focus on delivering end-to-end value, integrating technical rigor with the professional maturity gained from a previous career in healthcare to solve complex problems and meet market demands.</p>
+
+<ul style="list-style: none;">
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" /> 
+    <b>Experience:</b> Full Stack Developer Intern at <b>Compass UOL</b> and Software Resident at <b>CEPEDI</b>.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Health%20Worker.png" width="22" /> 
+    <b>Background:</b> Former Clinical Nutritionist (UFBA), bringing high professional maturity and problem-solving skills.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" /> 
+    <b>Education:</b> B.S. Candidate in Software Engineering at UniCesumar.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" width="22" /> 
+    <b>Product Focus:</b> Full-cycle development, requirements gathering, and business value delivery.
+  </li>
+</ul>
 
 <div style="display: inline_block" align="center">
   <h3 align="center">FrontEnd</h3>  
@@ -31,6 +49,7 @@
   <img align="center" alt="git" src="https://camo.githubusercontent.com/7e5aeeaedd14bc0b361b3f14d4d235da619598b2812fd494ecfb202a6cca5043/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
   <img align="center" alt="github" src="https://camo.githubusercontent.com/7d25879a1154e41d02975215aa093988a78036c605c1e16dbf813b9e78ef9c76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
   <img align="center" alt="insomnia" src="https://camo.githubusercontent.com/c24d435e739669c03a19531c3e18ed1532a65951fc4a45fa17f479a3f01d4cde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e736f6d6e69612d3133304634303f6c6f676f3d496e736f6d6e6961266c6f676f436f6c6f723d353834396265" />
+  <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
 </div>
 &nbsp;
 
