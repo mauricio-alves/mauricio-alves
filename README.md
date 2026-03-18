@@ -4,24 +4,28 @@
   <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/9afe0493484903.5e66500f8dea4.gif" width="50%" />
 </div>
 
-<p align="justify">I am a <b>Software Engineering student</b> with a solid background in <b>Frontend development</b> and a growing expertise in <b>Full Stack technologies</b>. While my primary experience lies in building responsive solutions with <b>React, TypeScript, and Node.js</b>, my roles at <b>Compass UOL</b> and <b>CEPEDI</b> have shaped a product-oriented mindset. I focus on delivering end-to-end value, integrating technical rigor with the professional maturity gained from a previous career in healthcare to solve complex problems and meet market demands.</p>
+<p align="justify">I am a <b>Software Engineering student</b> with a solid background in <b>Frontend development</b> and a growing expertise in <b>Full Stack technologies</b>. While my primary experience lies in building responsive solutions with <b>React, TypeScript, and Node.js</b>, my roles at <b>Compass UOL</b> and <b>CEPEDI</b> have shaped a product-oriented mindset. I focus on delivering end-to-end value, integrating technical rigor with the professional maturity gained from a previous career in healthcare to solve complex problems and meet market demands. Currently, I am deepening my studies in Artificial Intelligence (AI) applied to software engineering, exploring the use of AI agents, workflows, skills, and tools, such as <b>Google Antigravity</b> and <b>Cursor</b>, to enhance the development cycle.</p>
 
 <ul style="list-style: none;">
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" /> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> 
     <b>Experience:</b> Full Stack Developer Intern at <b>Compass UOL</b> and Software Resident at <b>CEPEDI</b>.
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Health%20Worker.png" width="22" /> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Health%20Worker.png" width="25" /> 
     <b>Background:</b> Former Clinical Nutritionist (UFBA), bringing high professional maturity and problem-solving skills.
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" /> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" /> 
     <b>Education:</b> B.S. Candidate in Software Engineering at UniCesumar.
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" width="22" /> 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" width="25" /> 
     <b>Product Focus:</b> Full-cycle development, requirements gathering, and business value delivery.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25" /> 
+    <b>AI-Assisted Development:</b> Exploring AI agents, workflows and tools like <b>Google Antigravity</b> and <b>Cursor</b>.
   </li>
 </ul>
 
